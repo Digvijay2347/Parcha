@@ -9,8 +9,7 @@ import { gsap } from 'gsap';
 import { TweenMax, Power0 } from 'gsap';
 import ThreeDBackground from '../components/ThreeDBackground';
 import ThreeD from '../components/ThreeD';
-import Card from '../components/Card';
-import Mockup from '../components/Mockup';
+
 import { FaReact } from "react-icons/fa";
 import { CgLaptop } from "react-icons/cg";
 import { SiAltiumdesigner } from "react-icons/si";
